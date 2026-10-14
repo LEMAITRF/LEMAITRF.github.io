@@ -68,6 +68,6 @@ img {
 
 /* We can also style by id */
 
-#Location1 {
+.graph {
   display: inline;
 }

@@ -66,7 +66,7 @@
         </div>
 
         <!-- This element will contain our vega-lite chart -->
-        <figure id="Location1"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+        <figure id="Location1" class="graph"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
 
     </section>
 
@@ -98,19 +98,19 @@
         <div class="chart-description">
             <h2>Section 2: Another chart</h2>
             <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
-                This chart depicts the GDP Per Capita for China, DR Congo, India, Nigeria, UK, USA.
+                This chart depicts the actual and forecasted Debt Interest payments in the UK.
             </p>
         </div>
 
         <!-- This element will contain our vega-lite chart -->
-        <figure id="Location2"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+        <figure id="Location2" class="graph"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
 
     </section>
 
      <script>
         // This is a comment in JavaScript - it's a different language to HTML and CSS
 
-        let figure_2_spec = "wk1_chart1.json"; // We're storing the URL of the graph we want to display in a variable
+        let figure_2_spec = "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/refs/heads/main/charts/library/chartClassExample2_8.json"; // We're storing the URL of the graph we want to display in a variable
         // You should have a spec for a graph in this same folder. Just specify its name here, e.g. let figure_1_spec = "chart1.json"
 
         vegaEmbed('#Location2', figure_2_spec) // We're using the vegaEmbed function to put a graph in the element with id figure_1
@@ -123,6 +123,117 @@
 
 
     </script>
+
+    <section>
+        <div class="chart-description">
+            <h2>Section 3: Gender parity in children's enrolment in school</h2>
+            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
+                This chart depicts the disparity between boys and girls attendance in schools across numerous countries.
+            </p>
+        </div>
+
+        <!-- This element will contain our vega-lite chart -->
+        <figure id="Location3" class="graph"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+
+    </section>
+
+    <!-- Do you want to add more sections? -->
+        <!-- Try copying pasting the section above -->
+        <!-- You'll need to change the id of the figure "<figure id="Location2"... -->
+        <!-- ... and add a new variable for the graph spec in the script at the bottom of the page -->
+
+
+    <!-- This is a script, it's a way to run JavaScript code on the page -->
+    <script>
+        // This is a comment in JavaScript - it's a different language to HTML and CSS
+
+        let figure_3_spec = "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/refs/heads/main/charts/library/chartClassExample3_6.json"; // We're storing the URL of the graph we want to display in a variable
+        // You should have a spec for a graph in this same folder. Just specify its name here, e.g. let figure_1_spec = "chart1.json"
+
+        vegaEmbed('#Location3', figure_3_spec) // We're using the vegaEmbed function to put a graph in the element with id figure_1
+        
+        // Do you want to add more graphs?
+        // try defining a new variable for figure_2_spec, adding VegaEmbed for Location2, and adding a new section in the HTML
+        // e.g. 
+        // let figure_2_spec = ...
+        // vegaEmbed('#Location2', figure_2_spec)
+
+
+    </script>
+
+    <section>
+        <div class="chart-description">
+            <h2>Section 4: World's Population pyramid</h2>
+            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
+                This chart depicts World's Population pyramid in the year 2026.
+            </p>
+        </div>
+
+        <!-- This element will contain our vega-lite chart -->
+        <figure id="Location4" class="graph"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+
+    </section>
+
+    <!-- Do you want to add more sections? -->
+        <!-- Try copying pasting the section above -->
+        <!-- You'll need to change the id of the figure "<figure id="Location2"... -->
+        <!-- ... and add a new variable for the graph spec in the script at the bottom of the page -->
+
+
+    <!-- This is a script, it's a way to run JavaScript code on the page -->
+    <script>
+        // This is a comment in JavaScript - it's a different language to HTML and CSS
+
+        let figure_4_spec = "pyramid.json"; // We're storing the URL of the graph we want to display in a variable
+        // You should have a spec for a graph in this same folder. Just specify its name here, e.g. let figure_1_spec = "chart1.json"
+
+        vegaEmbed('#Location4', figure_4_spec) // We're using the vegaEmbed function to put a graph in the element with id figure_1
+        
+        // Do you want to add more graphs?
+        // try defining a new variable for figure_2_spec, adding VegaEmbed for Location2, and adding a new section in the HTML
+        // e.g. 
+        // let figure_2_spec = ...
+        // vegaEmbed('#Location2', figure_2_spec)
+
+
+    </script>
+        <section>
+        <div class="chart-description">
+            <h2>Section 5: Coffee prices</h2>
+            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
+                This chart depicts the monthly coffee prices in US dollars per kilogram of coffee from 1992 to 2026. 
+            </p>
+        </div>
+
+        <!-- This element will contain our vega-lite chart -->
+        <figure id="Location5" class="graph"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+
+    </section>
+
+    <!-- Do you want to add more sections? -->
+        <!-- Try copying pasting the section above -->
+        <!-- You'll need to change the id of the figure "<figure id="Location2"... -->
+        <!-- ... and add a new variable for the graph spec in the script at the bottom of the page -->
+
+
+    <!-- This is a script, it's a way to run JavaScript code on the page -->
+    <script>
+        // This is a comment in JavaScript - it's a different language to HTML and CSS
+
+        let figure_5_spec = "coffee_prices.json"; // We're storing the URL of the graph we want to display in a variable
+        // You should have a spec for a graph in this same folder. Just specify its name here, e.g. let figure_1_spec = "chart1.json"
+
+        vegaEmbed('#Location5', figure_5_spec) // We're using the vegaEmbed function to put a graph in the element with id figure_1
+        
+        // Do you want to add more graphs?
+        // try defining a new variable for figure_2_spec, adding VegaEmbed for Location2, and adding a new section in the HTML
+        // e.g. 
+        // let figure_2_spec = ...
+        // vegaEmbed('#Location2', figure_2_spec)
+
+
+    </script>
+
 
     <a href="https://lemaitrf.github.io/Example2">Link to another page</a>
 

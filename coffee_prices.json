@@ -1,0 +1,15 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Google's stock price over time.",
+  "data": {"url": "https://raw.githubusercontent.com/LEMAITRF/LEMAITRF.github.io/refs/heads/main/Coffee%20prices(Monthly).csv"},
+  "title": "Monthly coffee prices (US$) per kg",
+  "mark": {
+    "type": "area",
+    "interpolate": "step-after",
+    "color": "#6F4E37"
+  },
+  "encoding": {
+    "x": {"field": "date", "type": "temporal", "title": "date"},
+    "y": {"field": "dollar_to_kg", "type": "quantitative", "title": "$/kg"}
+  }
+}
