@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="beautification.css">
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body class="inner">
+    <section id="charts">
+                    <div class="slider">
+                        <div class="slide active">
+                            <div class="chart-description">
+                                <h2>The wealthier the country you are in is, the longer you are expected to live!</h2>
+                                <p>This chart depicts the correlation between GDP and life expectancy.</p>
+                            </div>
+                            <figure id="Location1" class="graph"></figure>
+                        </div>
+                        <div class="slide">
+                            <div class="chart-description">
+                                <h2>Another chart</h2>
+                                <p>This chart depicts the actual and forecasted Debt Interest payments in the UK.</p>
+                            </div>
+                            <figure id="Location2" class="graph"></figure>
+                        </div>
+                        <div class="slide">
+                            <div class="chart-description">
+                                <h2>Gender parity in children's enrolment in school</h2>
+                                <p>This chart depicts the disparity between boys and girls attendance in schools across numerous countries.</p>
+                            </div>
+                            <figure id="Location3" class="graph"></figure>
+                        </div>
+                        <div class="slide">
+                            <div class="chart-description">
+                                <h2>The United States have the highest Real GDP per capita</h2>
+                                <p>This chart compares Real GDP per capita across different countries.</p>
+                            </div>
+                            <figure id="Location4" class="graph"></figure>
+                        </div>
+                        <div class="slide">
+                            <div class="chart-description">
+                                <h2>It is hard to achieve real gender parity in school enrolment</h2>
+                                <p>Country comparison of school enrolment inspecting gender parity</p>
+                            </div>
+                            <figure id="Location5" class="graph"></figure>
+                        </div>
+                        <div class="slide">
+                            <div class="chart-description">
+                                <h2>The World's population pyramid</h2>
+                                <p>This chart depicts World's Population pyramid in the year 2026.</p>
+                            </div>
+                            <figure id="Location6" class="graph"></figure>
+                        </div>
+                        <div class="slide">
+                            <div class="chart-description">
+                                <h2>In 30 years coffee prices per kilo have nearly doubled!</h2>
+                                <p>This chart depicts the monthly coffee prices in US dollars per kilogram of coffee from 1992 to 2026.</p>
+                            </div>
+                            <figure id="Location7" class="graph"></figure>
+                        </div>
+                        <button class="prev" aria-label="Previous chart">←</button>
+                        <button class="next" aria-label="Next chart">→</button>
+                    </div>
+                    <script>
+                        // 1. Draw every chart into its figure
+                        let figure_1_spec = "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/2/s2_chart2.json";
+                        let figure_2_spec = "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/refs/heads/main/charts/library/chartClassExample2_8.json";
+                        let figure_3_spec = "wk1_chart1.json";
+                        let figure_4_spec = "wk1_chart2.json";
+                        let figure_5_spec = "exercise1.json";
+                        let figure_6_spec = "pyramid.json";
+                        let figure_7_spec = "coffee_prices.json";
+
+                        function embed(id, url) {
+                            fetch(url)
+                            .then(response => response.json())
+                            .then(spec => {
+                                spec.width = 500;
+                                spec.height = 300;
+                                vegaEmbed(id, spec);
+                            });
+                        }
+
+
+                        embed('#Location1', figure_1_spec);
+                        embed('#Location2', figure_2_spec);
+                        embed('#Location3', figure_3_spec);
+                        embed('#Location4', figure_4_spec);
+                        embed('#Location5', figure_5_spec);
+                        embed('#Location6', figure_6_spec);
+                        embed('#Location7', figure_7_spec);
+
+                        // 2. Arrows switch between slides
+                        const slides = document.querySelectorAll('.slide');
+                        let current = 0;
+
+                        function show(i) {
+                        slides[current].classList.remove('active');
+                        current = (i + slides.length) % slides.length;
+                        slides[current].classList.add('active');
+                        window.dispatchEvent(new Event('resize'));   // lets the chart resize to fit once visible
+                        }
+
+                        document.querySelector('.next').addEventListener('click', () => show(current + 1));
+                        document.querySelector('.prev').addEventListener('click', () => show(current - 1));
+                    </script>
+    </section>
+</body>
+</html>
