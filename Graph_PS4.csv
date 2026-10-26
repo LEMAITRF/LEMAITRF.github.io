@@ -1,14 +1,27 @@
-﻿Country,2021,2026
-Switzerland,1,1
-Sweden,2,2
-US,3,3
-UK,4,6
-South Korea,5,4
-Netherlands,6,7
-Finland,7,8
-Singapore,8,5
-Denmark,9,9
-Germany,10,11
-France,11,13
-China,12,10
-Japan,13,12
+﻿country,year,value
+Switzerland,2021,1
+Switzerland,2026,1
+Sweden,2021,2
+Sweden,2026,2
+US,2021,3
+US,2026,3
+UK,2021,4
+UK,2026,6
+South Korea,2021,5
+South Korea,2026,4
+Netherlands,2021,6
+Netherlands,2026,7
+Finland,2021,7
+Finland,2026,8
+Singapore,2021,8
+Singapore,2026,5
+Denmark,2021,9
+Denmark,2026,9
+Germany,2021,10
+Germany,2026,11
+France,2021,11
+France,2026,13
+China,2021,12
+China,2026,10
+Japan,2021,13
+Japan,2026,12
