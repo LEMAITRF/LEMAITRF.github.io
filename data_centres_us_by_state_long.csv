@@ -1,103 +1,103 @@
-State,Year,Value
-Alabama,2025,26
-Alabama,2026,45
-Alaska,2025,4
-Alaska,2026,8
-Arizona,2025,164
-Arizona,2026,160
-Arkansas,2025,6
-Arkansas,2026,12
-California,2025,321
-California,2026,296
-Colorado,2025,60
-Colorado,2026,60
-Connecticut,2025,61
-Connecticut,2026,52
-Delaware,2025,19
-Delaware,2026,19
-District of Columbia,2025,7
-District of Columbia,2026,6
-Florida,2025,126
-Florida,2026,111
-Georgia,2025,163
-Georgia,2026,276
-Hawaii,2025,9
-Hawaii,2026,8
-Idaho,2025,10
-Idaho,2026,27
-Illinois,2025,244
-Illinois,2026,242
-Indiana,2025,79
-Indiana,2026,125
-Iowa,2025,105
-Iowa,2026,116
-Kansas,2025,19
-Kansas,2026,39
-Kentucky,2025,37
-Kentucky,2026,56
-Louisiana,2025,23
-Louisiana,2026,23
-Maine,2025,8
-Maine,2026,11
-Maryland,2025,44
-Maryland,2026,58
-Massachusetts,2025,49
-Massachusetts,2026,40
-Michigan,2025,58
-Michigan,2026,79
-Minnesota,2025,81
-Minnesota,2026,81
-Mississippi,2025,10
-Mississippi,2026,25
-Missouri,2025,55
-Missouri,2026,95
-Montana,2025,27
-Montana,2026,30
-Nebraska,2025,39
-Nebraska,2026,37
-Nevada,2025,62
-Nevada,2026,76
-New Hampshire,2025,10
-New Hampshire,2026,10
-New Jersey,2025,82
-New Jersey,2026,66
-New Mexico,2025,22
-New Mexico,2026,22
-New York,2025,142
-New York,2026,135
-North Carolina,2025,110
-North Carolina,2026,97
-North Dakota,2025,22
-North Dakota,2026,23
-Ohio,2025,203
-Ohio,2026,240
-Oklahoma,2025,37
-Oklahoma,2026,48
-Oregon,2025,137
-Oregon,2026,135
-Pennsylvania,2025,101
-Pennsylvania,2026,174
-Rhode Island,2025,7
-Rhode Island,2026,7
-South Carolina,2025,30
-South Carolina,2026,48
-South Dakota,2025,5
-South Dakota,2026,10
-Tennessee,2025,60
-Tennessee,2026,65
-Texas,2025,413
-Texas,2026,537
-Utah,2025,44
-Utah,2026,48
-Vermont,2025,3
-Vermont,2026,3
-Virginia,2025,665
-Virginia,2026,674
-Washington,2025,134
-Washington,2026,117
-West Virginia,2025,7
-West Virginia,2026,10
-Wisconsin,2025,47
-Wisconsin,2026,53
-Wyoming,2025,15
-Wyoming,2026,31
+State,Date,Value
+Alabama,2025/12/01,26
+Alabama,2026/10/01,45
+Alaska,2025/12/01,4
+Alaska,2026/10/01,8
+Arizona,2025/12/01,164
+Arizona,2026/10/01,160
+Arkansas,2025/12/01,6
+Arkansas,2026/10/01,12
+California,2025/12/01,321
+California,2026/10/01,296
+Colorado,2025/12/01,60
+Colorado,2026/10/01,60
+Connecticut,2025/12/01,61
+Connecticut,2026/10/01,52
+Delaware,2025/12/01,19
+Delaware,2026/10/01,19
+District of Columbia,2025/12/01,7
+District of Columbia,2026/10/01,6
+Florida,2025/12/01,126
+Florida,2026/10/01,111
+Georgia,2025/12/01,163
+Georgia,2026/10/01,276
+Hawaii,2025/12/01,9
+Hawaii,2026/10/01,8
+Idaho,2025/12/01,10
+Idaho,2026/10/01,27
+Illinois,2025/12/01,244
+Illinois,2026/10/01,242
+Indiana,2025/12/01,79
+Indiana,2026/10/01,125
+Iowa,2025/12/01,105
+Iowa,2026/10/01,116
+Kansas,2025/12/01,19
+Kansas,2026/10/01,39
+Kentucky,2025/12/01,37
+Kentucky,2026/10/01,56
+Louisiana,2025/12/01,23
+Louisiana,2026/10/01,23
+Maine,2025/12/01,8
+Maine,2026/10/01,11
+Maryland,2025/12/01,44
+Maryland,2026/10/01,58
+Massachusetts,2025/12/01,49
+Massachusetts,2026/10/01,40
+Michigan,2025/12/01,58
+Michigan,2026/10/01,79
+Minnesota,2025/12/01,81
+Minnesota,2026/10/01,81
+Mississippi,2025/12/01,10
+Mississippi,2026/10/01,25
+Missouri,2025/12/01,55
+Missouri,2026/10/01,95
+Montana,2025/12/01,27
+Montana,2026/10/01,30
+Nebraska,2025/12/01,39
+Nebraska,2026/10/01,37
+Nevada,2025/12/01,62
+Nevada,2026/10/01,76
+New Hampshire,2025/12/01,10
+New Hampshire,2026/10/01,10
+New Jersey,2025/12/01,82
+New Jersey,2026/10/01,66
+New Mexico,2025/12/01,22
+New Mexico,2026/10/01,22
+New York,2025/12/01,142
+New York,2026/10/01,135
+North Carolina,2025/12/01,110
+North Carolina,2026/10/01,97
+North Dakota,2025/12/01,22
+North Dakota,2026/10/01,23
+Ohio,2025/12/01,203
+Ohio,2026/10/01,240
+Oklahoma,2025/12/01,37
+Oklahoma,2026/10/01,48
+Oregon,2025/12/01,137
+Oregon,2026/10/01,135
+Pennsylvania,2025/12/01,101
+Pennsylvania,2026/10/01,174
+Rhode Island,2025/12/01,7
+Rhode Island,2026/10/01,7
+South Carolina,2025/12/01,30
+South Carolina,2026/10/01,48
+South Dakota,2025/12/01,5
+South Dakota,2026/10/01,10
+Tennessee,2025/12/01,60
+Tennessee,2026/10/01,65
+Texas,2025/12/01,413
+Texas,2026/10/01,537
+Utah,2025/12/01,44
+Utah,2026/10/01,48
+Vermont,2025/12/01,3
+Vermont,2026/10/01,3
+Virginia,2025/12/01,665
+Virginia,2026/10/01,674
+Washington,2025/12/01,134
+Washington,2026/10/01,117
+West Virginia,2025/12/01,7
+West Virginia,2026/10/01,10
+Wisconsin,2025/12/01,47
+Wisconsin,2026/10/01,53
+Wyoming,2025/12/01,15
+Wyoming,2026/10/01,31
