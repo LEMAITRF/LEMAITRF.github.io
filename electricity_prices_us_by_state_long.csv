@@ -1,0 +1,249 @@
+Area,Level,Division,Sector,Date,Value
+New England,Division,New England,Residential,2026/08/01,28.31
+New England,Division,New England,Residential,2025/08/01,29.01
+New England,Division,New England,Commercial,2026/08/01,22.24
+New England,Division,New England,Commercial,2025/08/01,22.61
+Connecticut,State,New England,Residential,2026/08/01,24.51
+Connecticut,State,New England,Residential,2025/08/01,30.17
+Connecticut,State,New England,Commercial,2026/08/01,19.29
+Connecticut,State,New England,Commercial,2025/08/01,23.47
+Maine,State,New England,Residential,2026/08/01,32.11
+Maine,State,New England,Residential,2025/08/01,28.14
+Maine,State,New England,Commercial,2026/08/01,21.33
+Maine,State,New England,Commercial,2025/08/01,21.25
+Massachusetts,State,New England,Residential,2026/08/01,30.48
+Massachusetts,State,New England,Residential,2025/08/01,30.55
+Massachusetts,State,New England,Commercial,2026/08/01,24.11
+Massachusetts,State,New England,Commercial,2025/08/01,23.15
+New Hampshire,State,New England,Residential,2026/08/01,27.64
+New Hampshire,State,New England,Residential,2025/08/01,24.44
+New Hampshire,State,New England,Commercial,2026/08/01,20.99
+New Hampshire,State,New England,Commercial,2025/08/01,20.43
+Rhode Island,State,New England,Residential,2026/08/01,28.18
+Rhode Island,State,New England,Residential,2025/08/01,26.53
+Rhode Island,State,New England,Commercial,2026/08/01,23.31
+Rhode Island,State,New England,Commercial,2025/08/01,22.23
+Vermont,State,New England,Residential,2026/08/01,23.84
+Vermont,State,New England,Residential,2025/08/01,22.10
+Vermont,State,New England,Commercial,2026/08/01,20.47
+Vermont,State,New England,Commercial,2025/08/01,19.05
+Middle Atlantic,Division,Middle Atlantic,Residential,2026/08/01,25.17
+Middle Atlantic,Division,Middle Atlantic,Residential,2025/08/01,23.73
+Middle Atlantic,Division,Middle Atlantic,Commercial,2026/08/01,19.62
+Middle Atlantic,Division,Middle Atlantic,Commercial,2025/08/01,18.85
+New Jersey,State,Middle Atlantic,Residential,2026/08/01,24.61
+New Jersey,State,Middle Atlantic,Residential,2025/08/01,24.70
+New Jersey,State,Middle Atlantic,Commercial,2026/08/01,18.71
+New Jersey,State,Middle Atlantic,Commercial,2025/08/01,18.52
+New York,State,Middle Atlantic,Residential,2026/08/01,28.65
+New York,State,Middle Atlantic,Residential,2025/08/01,26.64
+New York,State,Middle Atlantic,Commercial,2026/08/01,23.06
+New York,State,Middle Atlantic,Commercial,2025/08/01,22.33
+Pennsylvania,State,Middle Atlantic,Residential,2026/08/01,21.77
+Pennsylvania,State,Middle Atlantic,Residential,2025/08/01,19.93
+Pennsylvania,State,Middle Atlantic,Commercial,2026/08/01,13.93
+Pennsylvania,State,Middle Atlantic,Commercial,2025/08/01,12.68
+East North Central,Division,East North Central,Residential,2026/08/01,19.60
+East North Central,Division,East North Central,Residential,2025/08/01,18.11
+East North Central,Division,East North Central,Commercial,2026/08/01,13.95
+East North Central,Division,East North Central,Commercial,2025/08/01,13.29
+Illinois,State,East North Central,Residential,2026/08/01,19.32
+Illinois,State,East North Central,Residential,2025/08/01,18.03
+Illinois,State,East North Central,Commercial,2026/08/01,14.67
+Illinois,State,East North Central,Commercial,2025/08/01,13.94
+Indiana,State,East North Central,Residential,2026/08/01,17.02
+Indiana,State,East North Central,Residential,2025/08/01,16.21
+Indiana,State,East North Central,Commercial,2026/08/01,13.29
+Indiana,State,East North Central,Commercial,2025/08/01,13.86
+Michigan,State,East North Central,Residential,2026/08/01,22.99
+Michigan,State,East North Central,Residential,2025/08/01,20.73
+Michigan,State,East North Central,Commercial,2026/08/01,16.21
+Michigan,State,East North Central,Commercial,2025/08/01,14.85
+Ohio,State,East North Central,Residential,2026/08/01,19.38
+Ohio,State,East North Central,Residential,2025/08/01,17.55
+Ohio,State,East North Central,Commercial,2026/08/01,12.31
+Ohio,State,East North Central,Commercial,2025/08/01,11.42
+Wisconsin,State,East North Central,Residential,2026/08/01,19.41
+Wisconsin,State,East North Central,Residential,2025/08/01,18.44
+Wisconsin,State,East North Central,Commercial,2026/08/01,14.19
+Wisconsin,State,East North Central,Commercial,2025/08/01,13.60
+West North Central,Division,West North Central,Residential,2026/08/01,15.92
+West North Central,Division,West North Central,Residential,2025/08/01,15.17
+West North Central,Division,West North Central,Commercial,2026/08/01,12.07
+West North Central,Division,West North Central,Commercial,2025/08/01,11.53
+Iowa,State,West North Central,Residential,2026/08/01,17.06
+Iowa,State,West North Central,Residential,2025/08/01,15.48
+Iowa,State,West North Central,Commercial,2026/08/01,14.15
+Iowa,State,West North Central,Commercial,2025/08/01,12.87
+Kansas,State,West North Central,Residential,2026/08/01,15.47
+Kansas,State,West North Central,Residential,2025/08/01,14.65
+Kansas,State,West North Central,Commercial,2026/08/01,12.24
+Kansas,State,West North Central,Commercial,2025/08/01,11.82
+Minnesota,State,West North Central,Residential,2026/08/01,17.20
+Minnesota,State,West North Central,Residential,2025/08/01,16.89
+Minnesota,State,West North Central,Commercial,2026/08/01,13.41
+Minnesota,State,West North Central,Commercial,2025/08/01,13.11
+Missouri,State,West North Central,Residential,2026/08/01,16.02
+Missouri,State,West North Central,Residential,2025/08/01,15.32
+Missouri,State,West North Central,Commercial,2026/08/01,12.63
+Missouri,State,West North Central,Commercial,2025/08/01,12.26
+Nebraska,State,West North Central,Residential,2026/08/01,13.54
+Nebraska,State,West North Central,Residential,2025/08/01,12.80
+Nebraska,State,West North Central,Commercial,2026/08/01,10.00
+Nebraska,State,West North Central,Commercial,2025/08/01,9.09
+North Dakota,State,West North Central,Residential,2026/08/01,13.31
+North Dakota,State,West North Central,Residential,2025/08/01,12.97
+North Dakota,State,West North Central,Commercial,2026/08/01,8.07
+North Dakota,State,West North Central,Commercial,2025/08/01,7.47
+South Dakota,State,West North Central,Residential,2026/08/01,15.15
+South Dakota,State,West North Central,Residential,2025/08/01,13.90
+South Dakota,State,West North Central,Commercial,2026/08/01,11.71
+South Dakota,State,West North Central,Commercial,2025/08/01,10.64
+South Atlantic,Division,South Atlantic,Residential,2026/08/01,16.04
+South Atlantic,Division,South Atlantic,Residential,2025/08/01,15.64
+South Atlantic,Division,South Atlantic,Commercial,2026/08/01,12.31
+South Atlantic,Division,South Atlantic,Commercial,2025/08/01,11.22
+Delaware,State,South Atlantic,Residential,2026/08/01,18.70
+Delaware,State,South Atlantic,Residential,2025/08/01,16.85
+Delaware,State,South Atlantic,Commercial,2026/08/01,14.50
+Delaware,State,South Atlantic,Commercial,2025/08/01,12.68
+District of Columbia,State,South Atlantic,Residential,2026/08/01,25.98
+District of Columbia,State,South Atlantic,Residential,2025/08/01,23.18
+District of Columbia,State,South Atlantic,Commercial,2026/08/01,23.31
+District of Columbia,State,South Atlantic,Commercial,2025/08/01,20.65
+Florida,State,South Atlantic,Residential,2026/08/01,14.99
+Florida,State,South Atlantic,Residential,2025/08/01,15.33
+Florida,State,South Atlantic,Commercial,2026/08/01,11.35
+Florida,State,South Atlantic,Commercial,2025/08/01,11.43
+Georgia,State,South Atlantic,Residential,2026/08/01,15.90
+Georgia,State,South Atlantic,Residential,2025/08/01,15.55
+Georgia,State,South Atlantic,Commercial,2026/08/01,13.81
+Georgia,State,South Atlantic,Commercial,2025/08/01,11.16
+Maryland,State,South Atlantic,Residential,2026/08/01,21.40
+Maryland,State,South Atlantic,Residential,2025/08/01,19.89
+Maryland,State,South Atlantic,Commercial,2026/08/01,17.00
+Maryland,State,South Atlantic,Commercial,2025/08/01,15.06
+North Carolina,State,South Atlantic,Residential,2026/08/01,14.95
+North Carolina,State,South Atlantic,Residential,2025/08/01,14.59
+North Carolina,State,South Atlantic,Commercial,2026/08/01,10.73
+North Carolina,State,South Atlantic,Commercial,2025/08/01,10.02
+South Carolina,State,South Atlantic,Residential,2026/08/01,15.76
+South Carolina,State,South Atlantic,Residential,2025/08/01,15.16
+South Carolina,State,South Atlantic,Commercial,2026/08/01,11.76
+South Carolina,State,South Atlantic,Commercial,2025/08/01,11.00
+Virginia,State,South Atlantic,Residential,2026/08/01,17.64
+Virginia,State,South Atlantic,Residential,2025/08/01,15.85
+Virginia,State,South Atlantic,Commercial,2026/08/01,11.14
+Virginia,State,South Atlantic,Commercial,2025/08/01,9.85
+West Virginia,State,South Atlantic,Residential,2026/08/01,16.31
+West Virginia,State,South Atlantic,Residential,2025/08/01,15.62
+West Virginia,State,South Atlantic,Commercial,2026/08/01,11.65
+West Virginia,State,South Atlantic,Commercial,2025/08/01,11.57
+East South Central,Division,East South Central,Residential,2026/08/01,14.47
+East South Central,Division,East South Central,Residential,2025/08/01,13.99
+East South Central,Division,East South Central,Commercial,2026/08/01,13.41
+East South Central,Division,East South Central,Commercial,2025/08/01,13.03
+Alabama,State,East South Central,Residential,2026/08/01,16.33
+Alabama,State,East South Central,Residential,2025/08/01,16.26
+Alabama,State,East South Central,Commercial,2026/08/01,14.98
+Alabama,State,East South Central,Commercial,2025/08/01,14.53
+Kentucky,State,East South Central,Residential,2026/08/01,13.80
+Kentucky,State,East South Central,Residential,2025/08/01,13.10
+Kentucky,State,East South Central,Commercial,2026/08/01,12.09
+Kentucky,State,East South Central,Commercial,2025/08/01,11.81
+Mississippi,State,East South Central,Residential,2026/08/01,14.43
+Mississippi,State,East South Central,Residential,2025/08/01,13.61
+Mississippi,State,East South Central,Commercial,2026/08/01,13.45
+Mississippi,State,East South Central,Commercial,2025/08/01,12.88
+Tennessee,State,East South Central,Residential,2026/08/01,13.42
+Tennessee,State,East South Central,Residential,2025/08/01,13.09
+Tennessee,State,East South Central,Commercial,2026/08/01,13.13
+Tennessee,State,East South Central,Commercial,2025/08/01,12.86
+West South Central,Division,West South Central,Residential,2026/08/01,15.30
+West South Central,Division,West South Central,Residential,2025/08/01,14.79
+West South Central,Division,West South Central,Commercial,2026/08/01,9.54
+West South Central,Division,West South Central,Commercial,2025/08/01,9.23
+Arkansas,State,West South Central,Residential,2026/08/01,14.37
+Arkansas,State,West South Central,Residential,2025/08/01,13.33
+Arkansas,State,West South Central,Commercial,2026/08/01,11.73
+Arkansas,State,West South Central,Commercial,2025/08/01,10.75
+Louisiana,State,West South Central,Residential,2026/08/01,12.87
+Louisiana,State,West South Central,Residential,2025/08/01,12.55
+Louisiana,State,West South Central,Commercial,2026/08/01,11.09
+Louisiana,State,West South Central,Commercial,2025/08/01,10.90
+Oklahoma,State,West South Central,Residential,2026/08/01,14.82
+Oklahoma,State,West South Central,Residential,2025/08/01,14.42
+Oklahoma,State,West South Central,Commercial,2026/08/01,10.90
+Oklahoma,State,West South Central,Commercial,2025/08/01,10.00
+Texas,State,West South Central,Residential,2026/08/01,15.91
+Texas,State,West South Central,Residential,2025/08/01,15.40
+Texas,State,West South Central,Commercial,2026/08/01,8.96
+Texas,State,West South Central,Commercial,2025/08/01,8.76
+Mountain,Division,Mountain,Residential,2026/08/01,14.86
+Mountain,Division,Mountain,Residential,2025/08/01,14.57
+Mountain,Division,Mountain,Commercial,2026/08/01,12.14
+Mountain,Division,Mountain,Commercial,2025/08/01,11.91
+Arizona,State,Mountain,Residential,2026/08/01,15.05
+Arizona,State,Mountain,Residential,2025/08/01,15.09
+Arizona,State,Mountain,Commercial,2026/08/01,13.05
+Arizona,State,Mountain,Commercial,2025/08/01,12.98
+Colorado,State,Mountain,Residential,2026/08/01,17.17
+Colorado,State,Mountain,Residential,2025/08/01,16.21
+Colorado,State,Mountain,Commercial,2026/08/01,13.94
+Colorado,State,Mountain,Commercial,2025/08/01,13.13
+Idaho,State,Mountain,Residential,2026/08/01,13.37
+Idaho,State,Mountain,Residential,2025/08/01,12.08
+Idaho,State,Mountain,Commercial,2026/08/01,10.21
+Idaho,State,Mountain,Commercial,2025/08/01,8.95
+Montana,State,Mountain,Residential,2026/08/01,15.57
+Montana,State,Mountain,Residential,2025/08/01,14.29
+Montana,State,Mountain,Commercial,2026/08/01,13.64
+Montana,State,Mountain,Commercial,2025/08/01,12.53
+Nevada,State,Mountain,Residential,2026/08/01,12.72
+Nevada,State,Mountain,Residential,2025/08/01,12.54
+Nevada,State,Mountain,Commercial,2026/08/01,9.80
+Nevada,State,Mountain,Commercial,2025/08/01,10.05
+New Mexico,State,Mountain,Residential,2026/08/01,16.51
+New Mexico,State,Mountain,Residential,2025/08/01,15.98
+New Mexico,State,Mountain,Commercial,2026/08/01,12.14
+New Mexico,State,Mountain,Commercial,2025/08/01,12.02
+Utah,State,Mountain,Residential,2026/08/01,13.31
+Utah,State,Mountain,Residential,2025/08/01,13.62
+Utah,State,Mountain,Commercial,2026/08/01,10.39
+Utah,State,Mountain,Commercial,2025/08/01,10.82
+Wyoming,State,Mountain,Residential,2026/08/01,14.43
+Wyoming,State,Mountain,Residential,2025/08/01,14.33
+Wyoming,State,Mountain,Commercial,2026/08/01,10.27
+Wyoming,State,Mountain,Commercial,2025/08/01,9.72
+Pacific Contiguous,Division,Pacific Contiguous,Residential,2026/08/01,25.59
+Pacific Contiguous,Division,Pacific Contiguous,Residential,2025/08/01,25.42
+Pacific Contiguous,Division,Pacific Contiguous,Commercial,2026/08/01,23.87
+Pacific Contiguous,Division,Pacific Contiguous,Commercial,2025/08/01,22.94
+California,State,Pacific Contiguous,Residential,2026/08/01,29.75
+California,State,Pacific Contiguous,Residential,2025/08/01,30.92
+California,State,Pacific Contiguous,Commercial,2026/08/01,30.02
+California,State,Pacific Contiguous,Commercial,2025/08/01,29.24
+Oregon,State,Pacific Contiguous,Residential,2026/08/01,15.92
+Oregon,State,Pacific Contiguous,Residential,2025/08/01,15.85
+Oregon,State,Pacific Contiguous,Commercial,2026/08/01,10.72
+Oregon,State,Pacific Contiguous,Commercial,2025/08/01,9.84
+Washington,State,Pacific Contiguous,Residential,2026/08/01,14.63
+Washington,State,Pacific Contiguous,Residential,2025/08/01,13.65
+Washington,State,Pacific Contiguous,Commercial,2026/08/01,11.81
+Washington,State,Pacific Contiguous,Commercial,2025/08/01,11.02
+Pacific Noncontiguous,Division,Pacific Noncontiguous,Residential,2026/08/01,40.79
+Pacific Noncontiguous,Division,Pacific Noncontiguous,Residential,2025/08/01,34.72
+Pacific Noncontiguous,Division,Pacific Noncontiguous,Commercial,2026/08/01,34.46
+Pacific Noncontiguous,Division,Pacific Noncontiguous,Commercial,2025/08/01,29.65
+Alaska,State,Pacific Noncontiguous,Residential,2026/08/01,29.41
+Alaska,State,Pacific Noncontiguous,Residential,2025/08/01,27.79
+Alaska,State,Pacific Noncontiguous,Commercial,2026/08/01,23.90
+Alaska,State,Pacific Noncontiguous,Commercial,2025/08/01,23.09
+Hawaii,State,Pacific Noncontiguous,Residential,2026/08/01,47.18
+Hawaii,State,Pacific Noncontiguous,Residential,2025/08/01,38.53
+Hawaii,State,Pacific Noncontiguous,Commercial,2026/08/01,43.55
+Hawaii,State,Pacific Noncontiguous,Commercial,2025/08/01,34.93
+U.S. Total,National,,Residential,2026/08/01,18.16
+U.S. Total,National,,Residential,2025/08/01,17.57
+U.S. Total,National,,Commercial,2026/08/01,14.47
+U.S. Total,National,,Commercial,2025/08/01,13.87
